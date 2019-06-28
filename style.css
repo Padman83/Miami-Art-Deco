@@ -3,9 +3,10 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #c0392b;  /* fallback for old browsers */
-    background-color: -webkit-linear-gradient(to right, #8e44ad, #c0392b);  /* Chrome 10-25, Safari 5.1-6 */
-    background-color: linear-gradient(to right, #8e44ad, #c0392b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-color: #12c2e9;  /* fallback for old browsers */
+    background-color: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+    background-color: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
 }
 
 
@@ -21,7 +22,7 @@ body {
 
 .miami-art-deco {
     font-family: 'Monoton', cursive;
-    font-size: 72px;
+    font-size: 90px;
     position: relative;
     color: yellow;
 }
