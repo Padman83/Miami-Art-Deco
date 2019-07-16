@@ -3,8 +3,9 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: rgb(238,174,202);
-    background-color: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    background: #ef32d9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #89fffd, #ef32d9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #89fffd, #ef32d9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 
