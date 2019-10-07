@@ -10,6 +10,7 @@ Miami-Art-Deco Wallpaper.
 * [Materialize] (https://materializecss.com)
 * [jquery] (https://https://jquery.com)
 * [cdnjs] (https://cdnjs.com)
+* [Google Fonts] (https://fonts.google.com)
 
 ## Contact 
 
