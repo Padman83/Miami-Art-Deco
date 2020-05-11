@@ -17,6 +17,6 @@
 * [cdnjs] (https://cdnjs.com)
 * [Google Fonts] (https://fonts.google.com)
 
-## Contact 
+### Contact 
 
 Project Link: [https://github.com/Padman83/Miami-Art-Deco]
